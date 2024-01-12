@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio/static/css/main.d0c44394.css",
+    "main.js": "/My-Portfolio/static/js/main.1aaa4a79.js",
+    "static/media/student_manager.png": "/My-Portfolio/static/media/student_manager.16ff72b8181dd0be6b08.png",
+    "static/media/fog_weather.png": "/My-Portfolio/static/media/fog_weather.3471c02795bcef17baf6.png",
+    "static/media/springboot.png": "/My-Portfolio/static/media/springboot.0ae00d3085fbcdbe086d.png",
+    "static/media/angular.png": "/My-Portfolio/static/media/angular.3d139f3aa90a43e7b69c.png",
+    "static/media/react.png": "/My-Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/My-Portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/logo.png": "/My-Portfolio/static/media/logo.b3443eddc17a7e30aa7f.png",
+    "static/media/github.png": "/My-Portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/My-Portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/My-Portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/My-Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/My-Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/My-Portfolio/index.html",
+    "main.d0c44394.css.map": "/My-Portfolio/static/css/main.d0c44394.css.map",
+    "main.1aaa4a79.js.map": "/My-Portfolio/static/js/main.1aaa4a79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0c44394.css",
+    "static/js/main.1aaa4a79.js"
+  ]
+}
